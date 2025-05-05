@@ -1,0 +1,25 @@
+1. HEADER
+
+Mike Rice - Guitarist, Photographer, Developer in Training
+
+2. PROFILE
+
+About Me: I am a guitar player, a photographer, a LaunchCode student, and a nerd.
+
+ADD IMAGE
+
+
+3. SKILLS LIST
+- guitar
+- photography
+- coding
+
+
+4. FOOTER
+Copyright 2025
+
+
+NOTES
+Maybe add a couple of deatils if page is too sparse?
+
+
